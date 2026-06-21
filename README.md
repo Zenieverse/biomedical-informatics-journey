@@ -1,4 +1,7 @@
-# biomedical-informatics-journey
+# Why biomedical-informatics-journey:
+
+Biomedical Informatics is at the intersection of healthcare, AI, data, and digital health; applying technology and AI to improve healthcare.
+
 Projects in Biomedical Informatics series to learn the language Dr. T speaks
 
 https://github.com/Zenieverse/Dr.-T : 
