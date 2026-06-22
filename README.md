@@ -30,6 +30,66 @@ NumPy
 Data visualization
 Basic machine learning
 
+2. FHIR (Fast Healthcare Interoperability Resources) is the modern standard that allows systems to exchange patient data.
+Start here:
+FHIR Overview
+Learn these core resources:
+Patient
+Observation
+Encounter
+Condition
+Medication
+Procedure
+Think of them as database tables for healthcare.
+Practice
+Look at sample FHIR records and learn to:
+Read JSON
+Extract patient information
+Connect observations to encounters
+https://www.hl7.org/fhir/overview.html?utm_source=chatgpt.com
+
+3. https://physionet.org/content/mimiciv/?utm_source=chatgpt.com
+MIMIC contains de-identified ICU and hospital data from tens of thousands of patients.
+It is one of the most important datasets in biomedical informatics.
+Access Steps
+Create a PhysioNet account.
+Complete required training.
+Request access.
+Download approved datasets.
+
+Learn SQL
+Most MIMIC work is SQL-based.
+Use:
+SQLBolt https://sqlbolt.com/?utm_source=chatgpt.com 
+Learn:
+SELECT
+JOIN
+GROUP BY
+COUNT
+Window functions
+First Queries
+Answer questions such as:
+Average ICU stay?
+Most common diagnoses?
+Mortality by age group?
+Length of stay by condition?
+These are real-world health analytics tasks.
+
+4. AI 4 Medicine https://www.deeplearning.ai/courses/ai-for-medicine-specialization/?utm_source=chatgpt.com
+Topics:
+Disease prediction
+Medical imaging
+Prognosis modeling
+Treatment recommendation systems
+Libraries:
+pandas
+numpy
+scikit-learn
+matplotlib
+xgboost
+pytorch
+tensorflow
+
 Top Courses
 Harvard Medical School Open Courses (https://onlinelearning.hms.harvard.edu/?utm_source=chatgpt.com)
 National Library of Medicine Training Resources (https://www.nlm.nih.gov/oet/ed.html?utm_source=chatgpt.com)
@@ -68,6 +128,46 @@ Clinical chatbot
 Medical image classifier
 Drug interaction checker
 Personalized health dashboard
+
+Project 1: Hospital Readmission Predictor
+Input:
+Age
+Diagnosis
+Previous admissions
+Output:
+Probability of readmission
+Project 2: ICU Mortality Risk Score
+Using MIMIC data:
+Vitals
+Labs
+Demographics
+Predict mortality risk.
+Project 3: FHIR Clinical Dashboard
+Build a dashboard that:
+Reads FHIR JSON
+Displays patient history
+Shows medications
+Visualizes lab trends
+Project 4: AI Medical Assistant
+Using an LLM:
+Summarize patient records
+Explain diagnoses
+Generate discharge summaries
+Always present it as a decision-support tool, not a replacement for clinicians.
+
+Stage 6: Learn Industry Tools
+Many employers now want:
+Google Cloud Healthcare API
+Google Cloud Vertex AI
+Microsoft Azure Health Data Services
+Focus first on Google Cloud
+
+A practical weekly schedule is:
+5 hrs/week Kaggle & Python
+2 hrs/week FHIR
+3 hrs/week SQL + MIMIC
+5 hrs/week AI for Medicine
+2 hrs/week portfolio building
 
 Top Universities Offering Biomedical Informatics
 
