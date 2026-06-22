@@ -1,4 +1,4 @@
-# Why biomedical-informatics:
+# Why & How-to biomedical-informatics:
 
 Biomedical Informatics is at the intersection of healthcare, AI, data, and digital health; applying technology and AI to improve healthcare.
 
