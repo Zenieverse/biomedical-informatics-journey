@@ -6,7 +6,7 @@ Projects in Biomedical Informatics series to learn the language Dr. T speaks
 
 https://github.com/Zenieverse/Dr.-T : 
 V.01: Voice Agent;
-V.02: Integrated Informatics platform to the App.
+V.02: Integrated Informatics platform into the App.
 
 Roadmap:
 1. https://openwho.org/playlist/dedicated/631540/0_yd58jxwl/0_8qdpylyv (Health systems
